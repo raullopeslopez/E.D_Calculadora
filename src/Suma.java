@@ -1,5 +1,4 @@
 
-
 	/**
 	 * 
 	 * Representa la operación de suma, que recibe los parámetros que introduce el usuario, y procede a realizar la operación aritmética
@@ -30,6 +29,7 @@ public class Suma {
 	
 	public double sumar1 (double num1, double num2) {
 		return num1 + num2;
+		
 	}
 
 	/** 
