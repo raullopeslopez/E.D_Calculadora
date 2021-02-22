@@ -13,6 +13,9 @@
 	 */
 public class Resta {
 
+	public static void main (String [] args) {
+		System.out.println("Carlos Fuentes");
+	}
 	/** 
 	 * <b>Método 1:</b>  Resta de dos números reales, tendrá 2 parámetros de entrada y uno de salida, que será la solución.
 	 *  
